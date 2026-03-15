@@ -90,6 +90,17 @@ Customers were segmented into behavioral groups such as:
 | At-Risk Customers | Launch re-engagement campaigns |
 
 
+## Key Metrics
+
+| Metric | Value |
+|------|------|
+| Transactions Analyzed | 500,000+ |
+| Customers Segmented | 4,000+ |
+| Segments Identified | 4 |
+| Revenue Share of Top Segment | ~60% |
+
+
+
 ## Tools & Technologies
 - **Python**
 - **Pandas**
@@ -97,6 +108,10 @@ Customers were segmented into behavioral groups such as:
 - **Scikit-learn**
 - **Matplotlib / Seaborn**
 - **Jupyter Notebook**
+
+## Analytics Pipeline
+
+Data Cleaning → RFM Feature Engineering → Data Scaling → K-Means Clustering → Segment Profiling → Business Insights
 
 
 ## Conclusion
